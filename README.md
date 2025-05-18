@@ -18,7 +18,7 @@ OPENAI_API_KEY=<sua-api-key-gerada-na-openai>
 
 Em seguida, crie um ambiente virtual local com o Venv (Virtual Environment) para o projeto e instale as dependências:
 
-```
+```sh
 python3 -m venv .venv
 source .venv/bin/activate
 pip3 install -r requirements.txt
@@ -26,7 +26,7 @@ pip3 install -r requirements.txt
 
 Por fim, para executar o script, basta:
 
-```
+```sh
 python3 main.py
 ```
 
