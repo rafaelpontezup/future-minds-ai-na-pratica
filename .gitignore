@@ -175,3 +175,4 @@ cython_debug/
 
 # Application
 output/
+output-edit/
